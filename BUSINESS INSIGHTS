@@ -1,0 +1,73 @@
+## BUSINESS INSIGHTS
+
+
+1. Customer Insights
+Query: Total registered customers.
+Insight:
+The platform has 50 registered customers, showing a healthy initial customer base.
+2. Customer Registration Trend
+Query: Customers registered by month.
+Insight:
+Most customers registered in July, indicating the highest customer acquisition during that month.
+3. Product Insights
+Query: Highest-priced product.
+Insight:
+iPhone 15 is the most expensive product priced at ₹79,999, contributing significantly to premium product offerings.
+4. Discount Insights
+Query: Highest discount.
+Insight:
+boAt Airdopes offers the highest discount (25%), making it an attractive product for customers.
+5. Inventory Insights
+Query: Lowest stock products.
+Insight:
+A few products have lower stock levels and should be monitored for timely replenishment to avoid stock-outs.
+6. Shipment Insights
+Query: Delivered orders.
+Insight:
+21 shipments have been successfully delivered, indicating effective order fulfillment.
+7. Monthly Shipment Trend
+Query: Shipment count by month.
+Insight:
+July recorded the highest number of shipments, showing peak operational activity.
+8. Courier Performance
+Query: Courier usage.
+Insight:
+Courier usage is fairly balanced among delivery partners, reducing dependency on a single logistics provider.
+9. Seller Insights
+Query: Highest-rated seller.
+Insight:
+Camera Store has the highest seller rating, reflecting strong customer satisfaction.
+
+
+10. Product Pricing
+Query: Average product price by seller.
+Insight:
+Priya Patel has the highest average product price, indicating a focus on premium products.
+11. Wishlist Insights
+Query: Most wishlisted products.
+Insight:
+Eight products appear frequently in customer wishlists, showing strong customer interest and potential future demand.
+12. Order Insights
+Query: Total orders.
+Insight:
+The system contains 50 orders, demonstrating active customer purchasing activity.
+13. Review Insights
+Query: Product ratings.
+Insight:
+Several products have a 5-star rating, indicating positive customer satisfaction and product quality.
+14. Category Insights
+Query: Total categories.
+Insight:
+The platform manages 20 product categories, offering a diverse product catalog.
+
+
+
+##  Business Recommendation
+
+1.Based on all analyses:
+2.Increase inventory for frequently purchased products.
+3.Promote highly rated products through marketing campaigns.
+4.Continue offering competitive discounts on popular products.
+5.Strengthen partnerships with the best-performing courier services.
+6.Highlight top-rated sellers to build customer trust.
+7.Monitor low-stock products to prevent lost sales.
